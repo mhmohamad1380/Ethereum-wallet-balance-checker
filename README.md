@@ -1,5 +1,5 @@
 <div  align="center">
-<h1  align="center">Ethereum Balance Checker</h1>
+<h1  align="center">Ethereum Balance Checker (FastAPI)</h1>
 </div>
 
 ## Installation
